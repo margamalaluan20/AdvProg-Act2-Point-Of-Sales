@@ -74,4 +74,4 @@ This project is intended for academic and learning purposes as part of an Advanc
 
 ## License
 
-This project does not currently include a specific license file. Please contact the repository owner for licensing details if needed.
+This project does not currently include a specific license file. Please contact me for licensing details if needed.
